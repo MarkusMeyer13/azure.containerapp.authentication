@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure.containerapp.authentication": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7189",
+      "launchBrowser": false
+    }
+  }
+}
